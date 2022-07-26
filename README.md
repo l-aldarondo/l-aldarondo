@@ -1,9 +1,10 @@
 ### Hi, I'm Leonardo 👋
 
 ## Leonardo Aldarondo, OD
-### Data Scientist and Quality Assurance professional
+### Data Scientist and Quality Assurance Professional
 
 I’m a Data Scientist currently working  in Data Analytics and Visualization projects. I have a diversified experience in Data Science, Quality Assurance, Regulatory Affairs and Clinical Research. Known as a Team-oriented individual and innovative problem solver, in each project my goal is to mine data to uncover potential business solutions.
+
 
 <!--
 **l-aldarondo/l-aldarondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
