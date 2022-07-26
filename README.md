@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Leonardo 👋
+
+## Leonardo Aldarondo, OD
+### Data Scientist and Quality Assurance professional
+
 
 <!--
 **l-aldarondo/l-aldarondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
