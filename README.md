@@ -6,13 +6,13 @@
 I’m a Data Scientist currently working  in Data Analytics and Visualization projects. I have a diversified experience in Data Science, Quality Assurance, Regulatory Affairs and Clinical Research. Known as a Team-oriented individual and innovative problem solver, in each project my goal is to mine data to uncover potential business solutions.
 
 ### Technical Skills
-- **Languages:** Python(Pandas, Matplotlib), R, JavaScript, VBA
+- **Languages:** Python(Pandas, Matplotlib, APIs), R, JavaScript, VBA
 - **Databases:** SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL)
 - **IDE:** VS Code, Jupyter Notebook and Lab, Google Colab
-- **Visualization:** Tableau, QI Macros, SAP Crystal Reports
+- **Visualization:** Tableau, Plotly, SAP Crystal Reports, QI Macros
 
 #### Find me around the web :earth_americas:
-- Likedin
+- LinkedIn
 - Twitter
 
 <!--
