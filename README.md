@@ -12,7 +12,7 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 - **Visualization:** Tableau, Plotly, SAP Crystal Reports, QI Macros
 
 #### Find me around the web :earth_americas:
-- LinkedIn
+- [LinkedIn](http://www.linkedin.com/in/leonardo-aldarondo)
 - Twitter
 
 <!--
