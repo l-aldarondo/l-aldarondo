@@ -13,7 +13,7 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 
 #### Find me around the web :earth_americas:
 - [LinkedIn](http://www.linkedin.com/in/leonardo-aldarondo)
-- Twitter
+- [Twitter](@l_aldarondo)
 
 <!--
 **l-aldarondo/l-aldarondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
