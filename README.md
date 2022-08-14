@@ -7,7 +7,7 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 
 ### Technical Skills
 - **Languages:** Python(Pandas, Matplotlib, APIs), R, JavaScript, VBA
-- **Databases:** SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL)
+- **Databases:** SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL, SQLAlchemy ORM)
 - **IDE:** VS Code, Jupyter Notebook and Lab, Google Colab
 - **Visualization:** Tableau, Plotly, SAP Crystal Reports, QI Macros
 
