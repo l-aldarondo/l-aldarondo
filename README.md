@@ -7,13 +7,13 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 
 ### Technical Skills
 - **Languages:** Python(Pandas, Matplotlib, APIs), R, JavaScript (D3, Leaflet.js, GeoJSON), VBA
-- **Databases:** SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL, SQLAlchemy ORM)
+- **Databases:** SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL, SQLAlchemy ORM), AWS, S3
 - **IDE:** VS Code, Jupyter Notebook and Lab, Google Colab
 - **Visualization:** Tableau, Plotly, SAP Crystal Reports, QI Macros
 
 #### Find me around the web :earth_americas:
 - [Portfolio](https://leonardo-aldarondo.pages.dev/)
-- [LinkedIn](http://www.linkedin.com/in/leonardo-aldarondo)
+- [LinkedIn](www.linkedin.com/in/l-aldarondo)
 - [Tableau](https://public.tableau.com/app/profile/leonardo.aldarondo)
 - [Twitter](https://twitter.com/l_aldarondo)
 
