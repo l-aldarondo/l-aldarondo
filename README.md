@@ -13,7 +13,7 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 
 #### Find me around the web :earth_americas:
 - [Portfolio](https://leonardo-aldarondo.pages.dev/)
-- [LinkedIn](www.linkedin.com/in/l-aldarondo)
+- [LinkedIn](https://www.linkedin.com/in/l-aldarondo/)
 - [Tableau](https://public.tableau.com/app/profile/leonardo.aldarondo)
 - [Twitter](https://twitter.com/l_aldarondo)
 
