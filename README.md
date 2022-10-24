@@ -5,17 +5,25 @@
 
 I’m a Data Scientist currently working  in Data Analytics and Visualization projects. I have a diversified experience in Data Science, Quality Assurance, Regulatory Affairs and Clinical Research. Known as a Team-oriented individual and innovative problem solver, in each project my goal is to mine data to uncover potential business solutions.
 
-### Technical Skills
+## Technical Skills
 - **Languages:** Python(Pandas, Matplotlib, APIs), R, JavaScript (D3, Leaflet.js, GeoJSON), VBA
 - **Databases:** SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL, SQLAlchemy ORM), AWS, S3
 - **IDE:** VS Code, Jupyter Notebook and Lab, Google Colab
 - **Visualization:** Tableau, Plotly, SAP Crystal Reports, QI Macros
 
-#### Find me around the web :earth_americas:
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-aldarondo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-aldarondo&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=l-aldarondo.id&left_color=green&right_color=red)
+
+## Find me around the web :earth_americas:
 - [Portfolio](https://leonardo-aldarondo.pages.dev/)
 - [LinkedIn](https://www.linkedin.com/in/l-aldarondo/)
 - [Tableau](https://public.tableau.com/app/profile/leonardo.aldarondo)
 - [Twitter](https://twitter.com/l_aldarondo)
+
 
 <!--
 **l-aldarondo/l-aldarondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
