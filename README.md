@@ -14,7 +14,7 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-aldarondo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-aldarondo&show_icons=true)
+ 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=l-aldarondo.id&left_color=green&right_color=red)
 
