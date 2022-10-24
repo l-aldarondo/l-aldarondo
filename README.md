@@ -25,6 +25,11 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 [![Twitter](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/twitter-fill.svg)](https://twitter.com/l_aldarondo "Twiter")
 [![Email](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/mail-fill.svg)](laldarondo@proton.me "Email")
 
+<!-- <p>
+  <a href="https://leonardo-aldarondo.pages.dev/" title="Portfolio">
+    <img src="https://www.clipartmax.com/png/small/36-368214_social-network-logo-collection-social-media-icons-blue.png" alt="Portfolio" />
+  </a>
+</p> -->
 
 <!--
 **l-aldarondo/l-aldarondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
