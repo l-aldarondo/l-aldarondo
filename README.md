@@ -19,9 +19,11 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=l-aldarondo.id&left_color=green&right_color=red)
 
 ## Find me around the web :earth_americas:
-- [Portfolio](https://leonardo-aldarondo.pages.dev/)
-- [LinkedIn](https://www.linkedin.com/in/l-aldarondo/)
-- [Twitter](https://twitter.com/l_aldarondo)
+
+[![Portfolio](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/profile-fill.svg)](https://leonardo-aldarondo.pages.dev/ "Portfolio")
+[![LinkedIn](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/linkedin-fill.svg)](https://www.linkedin.com/in/l-aldarondo/ "LinkedIn")
+[![Twitter](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/twitter-fill.svg)](https://twitter.com/l_aldarondo "Twiter")
+[![Email](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/mail-fill.svg)](laldarondo@proton.me "Email")
 
 
 <!--
