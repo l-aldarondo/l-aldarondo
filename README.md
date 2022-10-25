@@ -6,10 +6,11 @@
 I’m a Data Scientist currently working  in Data Analytics and Visualization projects. I have a diversified experience in Data Science, Quality Assurance, Regulatory Affairs and Clinical Research. Known as a Team-oriented individual and innovative problem solver, in each project my goal is to mine data to uncover potential business solutions.
 
 ## Technical Skills
-- **Languages:** Python(Pandas, Matplotlib, APIs), R, JavaScript (D3, Leaflet.js, GeoJSON), VBA
-- **Databases:** SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL, SQLAlchemy ORM), AWS, S3
-- **IDE:** VS Code, Jupyter Notebook and Lab, Google Colab
-- **Visualization:** Tableau, Plotly, SAP Crystal Reports, QI Macros
+* **Programming Language:** Python, Pandas, R, JavaScript, HTML, CSS, JSON, Leaflet, GeoJSON, VBA
+* **Databases:** SQL and NoSQL databases PostgreSQL, MongoDB, AWS, Azure, Hadoop, Spark, NLP
+* **IDE:** RStudio, VS Code, Jupyter Notebook, JupyterLab, Google Colab
+* **Visualization:** Tableau, Matplotlib, Seaborn, GG Plot, Plotly, D3.js, API Interactions and web visualization
+* **Machine Learning:** Random Forests, k-Nearest Neighbors (kNN), Support Vector Machines (SVM), Linear Regression, Deep Learning, Dimensionality Reduction, Scikit-learn
 
 ## Stats
 
