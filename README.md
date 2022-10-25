@@ -3,7 +3,7 @@
 ## Leonardo Aldarondo, OD
 ### Data Scientist and Quality Assurance Professional
 
-I’m a Data Scientist currently working  in Data Analytics and Visualization projects. I have a diversified experience in Data Science, Quality Assurance, Regulatory Affairs and Clinical Research. Known as a Team-oriented individual and innovative problem solver, in each project my goal is to mine data to uncover potential business solutions.
+I’m a Data Scientist currently working  in Data Analytics and Visualization projects. I have a diversified experience in Data Science, Quality Assurance, Regulatory Affairs and Clinical Research. Known as a Team-oriented individual and innovative problem solver.
 
 ## Technical Skills
 * **Programming Language:** Python, Pandas, R, JavaScript, HTML, CSS, JSON, Leaflet, GeoJSON, VBA
