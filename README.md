@@ -20,10 +20,11 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 
 ## Find me around the web :earth_americas:
 
-[![Portfolio](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/profile-fill.svg)](https://leonardo-aldarondo.pages.dev/ "Portfolio")
-[![LinkedIn](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/linkedin-fill.svg)](https://www.linkedin.com/in/l-aldarondo/ "LinkedIn")
-[![Twitter](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/twitter-fill.svg)](https://twitter.com/l_aldarondo "Twiter")
-[![Email](./Logos%20and%20Icons/RemixIcon_SVG_2210241313/mail-fill.svg)](laldarondo@proton.me "Email")
+[![Portfolio](./Logos%20and%20Icons/Other%20Logos/1564534_customer_man_user_account_profile_icon.png)](https://leonardo-aldarondo.pages.dev/ "Portfolio")
+[![Email](./Logos%20and%20Icons/Other%20Logos/4550857_email_gmail_mail_sending_yahoo_icon.png)](laldarondo@proton.me "Email")
+[![LinkedIn](./Logos%20and%20Icons/Other%20Logos/294706_circle_linkedin_icon.png)](https://www.linkedin.com/in/l-aldarondo/ "LinkedIn")
+[![Twitter](./Logos%20and%20Icons/Other%20Logos/294709_circle_twitter_icon.png)](https://twitter.com/l_aldarondo "Twiter")
+
 
 <!-- <p>
   <a href="https://leonardo-aldarondo.pages.dev/" title="Portfolio">
