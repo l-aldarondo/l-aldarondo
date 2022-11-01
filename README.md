@@ -7,11 +7,11 @@ I’m a Data Scientist currently working  in Data Analytics and Visualization pr
 
 ## Technical Skills
 * **Programming Language**: Python, Pandas, R, JavaScript, HTML, CSS, JSON, Leaflet, GeoJSON, VBA
-* **Databases**: SQL and NoSQL databases PostgreSQL, MongoDB
+* **Databases**: SQL and NoSQL databases, PostgreSQL, MongoDB
 * **IDE**: RStudio, VS Code, Jupyter Notebook, JupyterLab, Google Colab
 * **Visualization**: Tableau, Matplotlib, Seaborn, GG Plot, Plotly, D3.js, API Interactions and web visualization
 * **Big Data**: AWS, Azure, Hadoop, Spark, Cloud computing
-* **Machine Learning**: Random Forests, k-Nearest Neighbors (kNN), Support Vector Machines (SVM), Linear Regression, Deep Learning, Dimensionality Reduction, Scikit-learn, Tensorflow Keras, NLP
+* **Machine Learning**: Random Forests, k-Nearest Neighbors (kNN), Support Vector Machines (SVM), Logistic Regression, Deep Learning, Dimensionality Reduction, Scikit-learn, Tensorflow Keras, NLP, SAS
 
 ## Stats
 
