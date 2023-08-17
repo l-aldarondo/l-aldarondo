@@ -1,7 +1,7 @@
 ### Hi, I'm Leonardo 👋
 
 ## Leonardo Aldarondo, OD
-### Data Scientist and Quality Assurance Professional
+### Data Scientist and Regulatory Affairs Professional
 
 I’m a Data Scientist currently working  in Regulatory Affairs Data Analytics and Visualization projects. I have a diversified experience in Data Science, Quality Assurance, Regulatory Affairs and Clinical Research. Known as a Team-oriented individual and innovative problem solver.
 
