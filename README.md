@@ -21,7 +21,7 @@ I’m a Data Scientist currently working  in Regulatory Affairs Data Analytics a
 **Awarded:** Jan 10, 2023  
 **Awarded To:** Leonardo Aldarondo  
 
-[VERIFY](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F-s_sNtQuSCuiLT20q_dQgg%3Fidentity__email%3Dleonardo.aldarondo%2540gmail.com&identity__email=leonardo.aldarondo%40gmail.com)
+[VERIFY]([https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F-s_sNtQuSCuiLT20q_dQgg%3Fidentity__email%3Dleonardo.aldarondo%2540gmail.com&identity__email=leonardo.aldarondo%40gmail.com](https://badgr.com/public/assertions/-s_sNtQuSCuiLT20q_dQgg?identity__email=leonardo.aldarondo@gmail.com))
 
 
 
